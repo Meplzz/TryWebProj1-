@@ -1,0 +1,79 @@
+﻿body {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: "Arial", sans-serif;
+    color: #404040;
+    background-color: white;
+}
+
+.feedback-form-group {
+    padding: 10px 0;
+}
+
+.page-header {
+    background-color: #363636;
+    color: #c3c3c3;
+}
+
+.menu-nav li {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.menu-nav a {
+    color: white;
+    text-decoration: none;
+}
+
+    .menu-nav a:hover {
+        text-decoration: underline;
+    }
+
+    .menu-nav a:active {
+        color: rgba(0, 0, 0, 0.3);
+    }
+
+.btn {
+    color: #a38b70;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+    .btn:hover {
+        color: #8d745a;
+    }
+
+    .btn:active {
+        color: rgba(141, 116, 90, 0.3);
+    }
+
+.site-name {
+    font-family: "Georgia", serif;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+}
+
+.main-input {
+    background-color: #f2f2f2;
+}
+
+.section-title {
+    font-family: "Georgia", serif;
+    font-size: 45px;
+    line-height: 55px;
+    font-style: bold;
+    color: #a38b70;
+}
+
+.input-reference {
+    font-size: 24px;
+}
+
+.input-source {
+    font-size: 16px;
+    color: #666666;
+    font-style: italic;
+}
