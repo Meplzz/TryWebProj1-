@@ -83,3 +83,31 @@
 .news-announcement {
     background-color: #f2f2f2
 }
+
+
+.feedback {
+    background-color: deepskyblue;
+}
+
+.page-footer {
+    background-color: #363636;
+    color: #c3c3c3;
+}
+
+.menu-footer li {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.menu-footer a {
+    color: white;
+    text-decoration: none;
+}
+
+    .menu-footer a:hover {
+        text-decoration: underline;
+    }
+
+    .menu-footer a:active {
+        color: rgba(0, 0, 0, 0.3);
+    }
