@@ -8,9 +8,7 @@
     background-color: white;
 }
 
-.feedback-form-group {
-    padding: 10px 0;
-}
+
 
 .page-header {
     background-color: #363636;
@@ -86,7 +84,16 @@
 
 
 .feedback {
-    background-color: deepskyblue;
+    background-color: navajowhite;
+}
+
+.feedback-form-group {
+    padding: 10px 0;
+}
+
+.feedback-form-group label {
+    text-transform: uppercase;
+    font-size: 12px;
 }
 
 .page-footer {
